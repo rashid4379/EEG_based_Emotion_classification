@@ -1,0 +1,4 @@
+Emotion recognition using deep learning
+arousal and valence emotions detection
+
+Dataset: https://www.eecs.qmul.ac.uk/mmv/datasets/deap/
